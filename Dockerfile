@@ -1,2 +1,2 @@
 # kube-scheduler-amd64
-from kube-scheduler-amd64:v1.11.1
+from k8s.gcr.io/kube-scheduler-amd64:v1.11.1
